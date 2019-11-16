@@ -1,0 +1,11 @@
+Package: com.ryannair05.hidelabels13
+Name: HideLabels13
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hide icon labels on iOS 13!
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Tweaks
+Replaces : com.ryannair05.hidelabels12
+Conflicts : com.ryannair05.hidelabels12
